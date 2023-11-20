@@ -1,4 +1,4 @@
-# chatbot
+# Chatbot
 ## Answer 1
 The attention mechanism used by transformers is key to process sequences effectively, and to keep focus to specific parts of the input. When we use transformers, different weights are assigned to each part of the sequence, which allows the model to focus on key aspects of the input.
 ## Answer 2
