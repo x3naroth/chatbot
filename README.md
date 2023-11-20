@@ -1,9 +1,9 @@
-## chatbot
-# Answer 1
+# chatbot
+## Answer 1
 The attention mechanism used by transformers is key to process sequences effectively, and to keep focus to specific parts of the input. When we use transformers, different weights are assigned to each part of the sequence, which allows the model to focus on key aspects of the input.
-# Answer 2
+## Answer 2
 RLHF is a way to optimize models by human feedback, by doing evaluations in order to refine the model performance. This differs from fine-tuning instruction, which mainly consists on tagging data
-# Answer 3
+## Answer 3
 Methods for efficient parameters fine-tuning includes techniques such as weight pruning, quantization, and knowledge distillation.
 For weight pruning we have algorithms like Optimal Brain Damage, that removes less relevant weights, but it may compromise precision. 
 Quantization methods, like BERT quantization, reduce the amount of used bits to represent weights, improving efficiency, at the expense of quality. 
